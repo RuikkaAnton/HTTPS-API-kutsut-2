@@ -1,0 +1,35 @@
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\appsettings.json
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\HTTPS API kutsut 2.exe
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\HTTPS API kutsut 2.deps.json
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\HTTPS API kutsut 2.runtimeconfig.json
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\HTTPS API kutsut 2.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\HTTPS API kutsut 2.pdb
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\HTTPS API kutsut 2.csproj.AssemblyReference.cache
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\HTTPS API kutsut 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\HTTPS API kutsut 2.AssemblyInfoInputs.cache
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\HTTPS API kutsut 2.AssemblyInfo.cs
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\HTTPS API kutsut 2.csproj.CoreCompileInputs.cache
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\HTTPS API kutsut 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\HTTPS API kutsut 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\scopedcss\bundle\HTTPS API kutsut 2.styles.css
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\HTTPS API kutsut 2.csproj.CopyComplete
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\HTTPS API kutsut 2.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\refint\HTTPS API kutsut 2.dll
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\HTTPS API kutsut 2.pdb
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\HTTPS API kutsut 2.genruntimeconfig.cache
+C:\Users\s2101064\OneDrive - Business College Helsinki\Tieto- ja viestintätekniikan opinnot\.net\HTTPS API kutsut 2\HTTPS API kutsut 2\obj\Debug\net6.0\ref\HTTPS API kutsut 2.dll
